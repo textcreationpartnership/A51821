@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the Hampshire-feast on Shrove-Tuesday, Feb. 16, 1685/6 by Tho. Mannyngham ...</title>
+            <author>Manningham, Thomas, 1651?-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51821</idno>
+            <idno type="STC">Wing M503</idno>
+            <idno type="STC">ESTC R4397</idno>
+            <idno type="EEBO-CITATION">12969117</idno>
+            <idno type="OCLC">ocm 12969117</idno>
+            <idno type="VID">96148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96148)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 389:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the Hampshire-feast on Shrove-Tuesday, Feb. 16, 1685/6 by Tho. Mannyngham ...</title>
+                  <author>Manningham, Thomas, 1651?-1722.</author>
+               </titleStmt>
+               <extent>[7], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Collins for W. Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Philippians IV, 8 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:96148:1"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>
+                  <hi>Z. Iſham,</hi> R. P. D. <hi>Hen.</hi> Epiſc. <hi>Lond.</hi> à ſacris Domeſticis.</signed>
+               <dateline>
+                  <date>
+                     <hi>Feb.</hi> 18. 1686.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96148:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED AT THE <hi>Hampſhire-Feaſt,</hi> ON Shrove-Tueſday, FEB. 16. 1685/6.</p>
+            <p>By <hi>THO. MANNYNGHAM,</hi> Preacher at the <hi>ROLLS.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>F. Collins,</hi> for <hi>W. Crooke,</hi> at the <hi>Green Dragon</hi> without <hi>Temple-bar.</hi> MDCLXXXVI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96148:2"/>
+            <pb facs="tcp:96148:2"/>
+            <head>TO THE Very Worthy STEWARDS OF THE <hi>Hampſhire Feaſt.</hi>
+               <list>
+                  <item>Sir <hi>Benjamin Newland,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Tutt</hi> Eſq;</item>
+                  <item>Mr. <hi>Henry Howell,</hi>
+                  </item>
+                  <item>Mr. <hi>Jonah Mapleton,</hi>
+                  </item>
+                  <item>Mr. <hi>David Feilder,</hi>
+                  </item>
+                  <item>Col. <hi>William Beeſton,</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Hobbs,</hi>
+                  </item>
+                  <item>Mr. <hi>Gabriel Jones,</hi>
+                  </item>
+                  <item>Mr. <hi>John Clement,</hi>
+                  </item>
+                  <item>Mr. <hi>John Pinck</hi>
+                  </item>
+               </list>
+            </head>
+            <opener>
+               <salute>Much Honoured Gentlemen,</salute>
+            </opener>
+            <p>YOU are but juſt Eas'd of your Stewardſhips, and have taken a greater <hi>Trouble</hi> upon you, of being <hi>Patrons</hi> to this <hi>Diſcourſe;</hi> which I fear will hardly find ſo kind an Acceptance as you were pleaſed to beſtow upon it: For it is ſeldom known, that Men love to find <hi>Bad Manners</hi> ſeverely Tax'd, unleſs they
+<pb facs="tcp:96148:3"/> themſelves are in a good meaſure <hi>In<g ref="char:EOLhyphen"/>nocent,</hi> or in a ready <hi>Diſpoſition</hi> to be ſo.</p>
+            <p>I look'd upon my <hi>Text</hi> as an ad<g ref="char:EOLhyphen"/>mirable <hi>Abridgment,</hi> of the <hi>pureſt Mora<g ref="char:EOLhyphen"/>lity</hi> of the Antient Philoſophers; and that St. <hi>Paul</hi> had an Eye to their Wri<g ref="char:EOLhyphen"/>tings, ſeem'd very probable to me, by his making a particular mention of their Chief Subject, <hi>Virtue;</hi> and their moſt Celebrated Motive, <hi>Praiſe;</hi> this prevail'd with me to have ſome regard even to <hi>their Rules,</hi> in my Di<g ref="char:EOLhyphen"/>rections about <hi>Manners;</hi> which I hope were not altogether improper for the Moderating the <hi>Jollities</hi> of a <hi>Shrove-Tueſday,</hi> though they were not <hi>ſevere</hi> enough to improve the Peni<g ref="char:EOLhyphen"/>tential <hi>Sorrows</hi> of a <hi>Lent.</hi>
+            </p>
+            <p>Any one of the <hi>Parts</hi> might have ſupply'd me with a <hi>juſt Diſcourſe;</hi> but I was willing to hint ſome of the more
+<pb facs="tcp:96148:3"/> remarkable <hi>Virtues</hi> and <hi>Vices</hi> of <hi>Common Converſation,</hi> and to leave the reſt to your larger Obſervations, and grea<g ref="char:EOLhyphen"/>ter Experience in the World.</p>
+            <p>Well Gentlemen, I may without Flattery commend you for your ex<g ref="char:EOLhyphen"/>traordinary Management of your <hi>Publick Feaſt;</hi> for <hi>you</hi> were the firſt that ever ſhew'd me an <hi>Exact Order</hi> and <hi>Decence</hi> in a <hi>Rejoycing Multitude.</hi> The moſt <hi>
+                  <g ref="char:V">Ʋ</g>ngovernable</hi> thing that I per<g ref="char:EOLhyphen"/>ceiv'd, (for it was that which gave me the firſt ſurprize) was in the <hi>Loud</hi> Expreſſions of your <hi>Loyalty:</hi> and that I ſuppoſe is now the only <hi>Tumult,</hi> which your <hi>Excellent City</hi> will allow of.</p>
+            <p>May your moſt Generous <hi>Deſigns</hi> proſper, your Chriſtian <hi>Charity</hi> flou<g ref="char:EOLhyphen"/>riſh, your private <hi>Friendſhips</hi> increaſe, and your United <hi>Loyalty</hi> remain for ever firm: May you bring Honour
+<pb facs="tcp:96148:4"/> to your <hi>Church,</hi> and to your <hi>Kingdom;</hi> and may you never want a Bleſſing and Succeſs in your particular <hi>Im<g ref="char:EOLhyphen"/>ployments:</hi> May you continue to Re<g ref="char:EOLhyphen"/>ſpect your <hi>Clergy,</hi> as they are ever mindful of your <hi>Trueſt Intereſt:</hi> And may all our Enemies wonder at our <hi>Love,</hi> dread our <hi>Meekneſs,</hi> and imitate our <hi>Charity:</hi> Which is the hearty wiſh of</p>
+            <closer>
+               <signed>your Moſt Sincere and Humble Servant THO. MANNYNGHAM.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96148:4"/>
+            <epigraph>
+               <q>
+                  <bibl>PHILIP. Chap. 4. v. 8.</bibl>
+                  <p>Finally, Brethren, whatſoever things are True, whatſoever things are Honeſt, whatſoever things are Juſt, whatſoever things are Pure, what<g ref="char:EOLhyphen"/>ſoever things are Lovely, whatſoever things are of Good Report; if there be any Virtue, if there be any Praiſe, think on theſe things.</p>
+               </q>
+            </epigraph>
+            <p>THE Apoſtle St. <hi>Paul</hi> having laid down in this Epiſtle, the more Solemn Rules of our <hi>Religious Converſation;</hi> ſuch as are to build men up into <hi>
+                  <g ref="char:V">Ʋ</g>nity, Love, Humility, Perfection, Heavenly Mindedneſs, Moderati<g ref="char:EOLhyphen"/>on, and Equanimity, Conſtancy,</hi> and <hi>Perſeve<g ref="char:EOLhyphen"/>rance,</hi> with <hi>Continual Supplications</hi> and <hi>Thanksgivings;</hi> He ſums up in this verſe
+<pb n="2" facs="tcp:96148:5"/> the more Comprehenſive Rules of <hi>
+                  <g ref="char:V">Ʋ</g>niver<g ref="char:EOLhyphen"/>ſal Goodneſs,</hi> ſuch as relate to <hi>Truth, Juſtice, Venerableneſs,</hi> or <hi>Decence, Purity, Lovelineſs,</hi> or whatever things are <hi>Commendable</hi> and <hi>Praiſe-worthy:</hi> Theſe he enforces upon our Conſideration and Practice, by the ge<g ref="char:EOLhyphen"/>neral Motives of <hi>Virtue</hi> and <hi>Praiſe; Motives,</hi> which did uſually prevail among the more Civil and the Wiſer Heathen. Upon this account, I ſuppoſe, I ſhall not be very wide of the Apoſtles meaning, if in my preſent Diſcourſe I ſuit theſe <hi>Rules</hi> to the due re<g ref="char:EOLhyphen"/>gulating of our <hi>Ordinary Converſation:</hi> which cannot be ſuch as becomes <hi>Chriſtians,</hi> unleſs it do ſome way or other promote Virtue, Sincerity, and Purity of Manners, ſevere Juſtice, real Charity, and ſolid Diſ<g ref="char:EOLhyphen"/>cretion, in all our Undertakings, Imploy<g ref="char:EOLhyphen"/>ments, and Conferences; in all our Re<g ref="char:EOLhyphen"/>laxations and Diverſions.</p>
+            <p>It is preſum'd both by the <hi>Church</hi> and the <hi>State,</hi> that theſe <hi>Voluntary Societies</hi> and <hi>Combinations</hi> had their firſt Inſtitution, and have their Annual Celebration for the en<g ref="char:EOLhyphen"/>couraging and maintaining of the truly
+<pb n="3" facs="tcp:96148:5"/> Noble and Chriſtian Acts of <hi>Charity, Loy<g ref="char:EOLhyphen"/>alty,</hi> &amp; <hi>Friendſhip:</hi> But yet there is a great Caution requir'd (and I humbly conceive you have placed me here to mind you of it) that the <hi>Feſtival part</hi> of theſe ſo Com<g ref="char:EOLhyphen"/>mendable Meetings, do not degenerate in<g ref="char:EOLhyphen"/>to Seditious or Prophane Diſcourſes, into Luxury or Strife, Wantonneſs or filthy Jeſting; but that theſe Provincial Solem<g ref="char:EOLhyphen"/>nities may be always manag'd with that Sobriety, Decence, and Circumſpection, that they may be as pleaſing to God, as they are Acceptable to Men; and that they may in ſome meaſure reſemble the antient <hi>Love-Feaſts</hi> of the Primitive Church; where good Chriſtians conſpir'd only to be obedient to the Empire, and made their care of Diſcipline and good Manners their chiefeſt Entertainment.</p>
+            <p>In order to this, I ſhall endeavour to enlarge a little on thoſe Excellent Rules of <hi>Christi<g ref="char:EOLhyphen"/>an Behaviour,</hi> which the Apoſtle has here drawn into a Compendium; that they may be as it were a <hi>Moral Opiate</hi> to mingle with your Wine, your Muſick and your Mirth;
+<pb n="4" facs="tcp:96148:6"/> that you may depart with as much <hi>Tempe<g ref="char:EOLhyphen"/>rance</hi> as you now meet; full of <hi>Love</hi> and of <hi>Good Works;</hi> and that you be talk'd of for nothing more than the <hi>largeneſs</hi> of your <hi>Charity.</hi>
+            </p>
+            <p>Let us therefore conſider, how that Chriſtianity is not only a peculiar way of Worſhiping God, contrary to all other Re<g ref="char:EOLhyphen"/>ligions; but that it is the moſt certain, uni<g ref="char:EOLhyphen"/>verſal, and moſt powerful method of ma<g ref="char:EOLhyphen"/>king all Mankind Virtuous, Wiſe, Loving, and highly Beneficial to each other; that it does not oblige us wholly to retire and ſeparate from the world, but to fit our ſelves as ſoon as we can to <hi>converſe</hi> in it with In<g ref="char:EOLhyphen"/>nocency, Prudence, and Safety; and having better'd our own <hi>Tempers,</hi> to make them Inſtrumental to the improvement of others.</p>
+            <p n="1">1. Therefore whatſoever things are <hi>True, Real,</hi> or <hi>Sincere,</hi> ought to be promoted in our common Converſation.</p>
+            <p>There is nothing more ſuitable to the Nature of Man, than plain and open <hi>Truth;</hi>
+               <pb n="5" facs="tcp:96148:6"/> his mind is covetous of all juſt and faithful Informations, that he may build up a know<g ref="char:EOLhyphen"/>ledge firm and ſecure, and ſuch as may con<g ref="char:EOLhyphen"/>tinually ſupply him with Maxims of Wiſ<g ref="char:EOLhyphen"/>dom, and prudent rules of life.</p>
+            <p>When Man, through the ſtrength and violence of his Paſſions, and the weak be<g ref="char:EOLhyphen"/>ginnings of his Reaſon, which very much depends on <hi>Senſe</hi> and <hi>Imagination,</hi> is lyable to Error, even under the cleareſt light, and ſureſt principles; how injurious is it to him, to have his Underſtanding ſcribled over with falſe Images of things, and thick prejudices ſo ſtrongly woven into him, that they ſhall ſeem to be of the ſame growth with his Soul? how difficult is it for one of ſuch a prepoſſeſſed mind, ever to receive any fair Impreſſions of things real, and fit to be confided in? Whatever you propoſe for the regulating his Judgment will ſeem <hi>ſuſpected</hi> to him, as not agreeing with the Fundamental Deluſion he has already eſ<g ref="char:EOLhyphen"/>pouſed; and to tell him, he muſt renounce his <hi>whole frame of thoughts,</hi> when built upon an Original Error, may look fine in a <hi>Philo<g ref="char:EOLhyphen"/>ſophical
+<pb n="6" facs="tcp:96148:7"/> Propoſal,</hi> but is very rarely reduc'd to practice in the common government of Life.</p>
+            <p>Let the mind of man be always reve<g ref="char:EOLhyphen"/>renc'd as a moſt <hi>Sacred Receſs,</hi> where on<g ref="char:EOLhyphen"/>ly <hi>Truth</hi> and <hi>Goodneſs</hi> ſhould inhabite, and in which nothing but what is ſound and ſub<g ref="char:EOLhyphen"/>ſtantial ſhould be depoſited; nothing but what may be ſerviceable to <hi>Moral</hi> or <hi>Religi<g ref="char:EOLhyphen"/>ous</hi> wiſdom.</p>
+            <p>How cautious therefore ought men to be in their publick Inſtructions, nay in their common Reports and Conferences, that they may not be the fatal occaſion of lead<g ref="char:EOLhyphen"/>ing others into Error? how carefully ought they to examine matters before-hand, that they may not prove the Confident Aſſer<g ref="char:EOLhyphen"/>tors of Falſe News, Lyes, and Scandals, which the Credulous Multitude are apt to ſwallow to the ruine of themſelves, the Common-wealth, and the Church.</p>
+            <p>In reſpect to the Common-wealth. What an heinous offence is it for men of Wit and
+<pb n="7" facs="tcp:96148:7"/> Parts, to vent any colourable pretences for Sedition? to extol the happineſs of other Kingdoms with a Factious Eloquence, and erect new Schemes of Government contra<g ref="char:EOLhyphen"/>ry to what is already moſt wiſely and pro<g ref="char:EOLhyphen"/>videntially eſtabliſhed amongſt us? for al<g ref="char:EOLhyphen"/>though ſuch Diſcourſes in themſelves may be very raw and inconſiſtent, yet there are always ſome paſſive Heads, that are a com<g ref="char:EOLhyphen"/>mon ſink for all fooliſh and abſurd Opini<g ref="char:EOLhyphen"/>ons to run into; and there are other more airy heads made giddy with a ſpirit of Re<g ref="char:EOLhyphen"/>bellion, which are apt to think every Sedi<g ref="char:EOLhyphen"/>tious Novelty, though never ſo weak and trivial, ſome rare and newly invented Poli<g ref="char:EOLhyphen"/>tical Machin, ſufficient to turn the whole Earth about.</p>
+            <p>Whereas, if men were willing to <hi>con<g ref="char:EOLhyphen"/>verſe</hi> like <hi>Faithful Subjects,</hi> they would of<g ref="char:EOLhyphen"/>ten take occaſion to declare the excellency of their own Laws and Government, the noble Exploits of their Anceſtors in the de<g ref="char:EOLhyphen"/>fence of the Crown, &amp; that invincible <hi>Rage</hi> of <hi>Loyalty</hi> which ſwell'd the breaſts of thoſe who were at any time animated with the
+<pb n="8" facs="tcp:96148:8"/> true Engliſh Gallantry. They would take all occaſions to declare what a difficult Pro<g ref="char:EOLhyphen"/>vince Kings have to manage, even in the moſt peaceable and obedient times, but e<g ref="char:EOLhyphen"/>ſpecially after a rebellious ferment has been long time ſowring the Apprehenſions and Paſſions of men. What Cares and Per<g ref="char:EOLhyphen"/>plexities do attend the moſt proſperous Thrones! How publick Buſineſs does of<g ref="char:EOLhyphen"/>ten come down to us infected with private Malice, and retaining a ſtrong tincture of the Mineral through which it runs; and that we are not able to diſcover all the ſe<g ref="char:EOLhyphen"/>cret ſprings and movements by which the body of Affairs is turned.</p>
+            <p>Did men enter their Coffee-houſes and their Taverns, their Aſſignations and their Feaſts, with theſe preparatory Reflections, they would be more wary in their Cen<g ref="char:EOLhyphen"/>ſures, more deliberate in their Judgments, and harmleſs in all Events; their Miſtakes would be ſeldom, moſt times honeſt and ſincere, and ſerviceable to Peace and Good<g ref="char:EOLhyphen"/>will.</p>
+            <pb n="9" facs="tcp:96148:8"/>
+            <p>As in relation to <hi>Government,</hi> we are to promote nothing but <hi>Truth</hi> and Reality in our <hi>Communications;</hi> ſo we ſhould be eſpe<g ref="char:EOLhyphen"/>cially concern'd to carry the ſame circum<g ref="char:EOLhyphen"/>ſpection with us in all matters of <hi>Religion;</hi> where Fraud and Artifice are never to be endured. For the plain Truths of Religi<g ref="char:EOLhyphen"/>on are able to ſhift of themſelves; and ſcarce ever fail, but when men undertake to prop them with their Additional Cun<g ref="char:EOLhyphen"/>ning. We know how Chriſtianity broke through all the Arts and Policies of the Heathen Empire, not only by its paſſive Courage, and meek Subjection, but by its ſolid plainneſs and active integrity: and if men think to render it more ſecure by guarding it with ſubtilty and nice diſtincti<g ref="char:EOLhyphen"/>on, they are miſtaken; they only weaken it, and make it ſuſpected, whilſt they la<g ref="char:EOLhyphen"/>bour to turn the <hi>Counſel</hi> of God into the <hi>Imagination</hi> of Man.</p>
+            <p>Let there be but Simplicity and Integri<g ref="char:EOLhyphen"/>ty enough in our Affairs, and True Chriſtia<g ref="char:EOLhyphen"/>nity will prevail. Had our <hi>Reformation</hi> no<g ref="char:EOLhyphen"/>thing
+<pb n="10" facs="tcp:96148:9"/> elſe to recommend it, yet the very taking of all <hi>diſguiſes</hi> from Religion, were ſufficient: for it was that which chac'd a<g ref="char:EOLhyphen"/>way the ſhadows of <hi>Superſtition,</hi> and diſco<g ref="char:EOLhyphen"/>vered the Foundations of <hi>Real Piety;</hi> it was that which brought an amazing light, an unexpected day into the dark Cloyſters of Legends, and Relicks, and forged Mi<g ref="char:EOLhyphen"/>racles; Men were preſently aſhamed of the groſs Couſenage they had promoted; they were confounded for the falſe Wares of Impoſture they had ſo long time ven<g ref="char:EOLhyphen"/>ded: The Monſters of the Night ſoon fled away out of this Land, after the full glory of the Reformation aroſe.</p>
+            <p>Then the True Righteouſneſs of the Goſpel was vindicated, a ſober judgment of <hi>Diſcretion</hi> aſſerted, and Chriſtianity was again fitted, as it was at firſt deſigned, for all <hi>Hearts</hi> that were ſincere, and for all <hi>Heads</hi> that could be contented with the Truths of Heaven, as Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles had revealed them.</p>
+            <p>For it muſt be acknowledged that many
+<pb n="11" facs="tcp:96148:9"/> have abuſed the Reformation, by their too Scrupulous and <hi>Endleſs Enquiries;</hi> who be<g ref="char:EOLhyphen"/>cauſe they were once impos'd upon, grow unreaſonably ſuſpicious, dread a cheat in every Article of their Faith; and from be<g ref="char:EOLhyphen"/>ing Proteſtants againſt the Corruptions of <hi>Rome,</hi> are grown Scepticks and Seekers in the <hi>plaineſt Truths</hi> of Religion.</p>
+            <p>'Tis ordinary indeed for <hi>New Diſcoveries</hi> at any time, to raiſe an <hi>
+                  <g ref="char:V">Ʋ</g>nſeaſonable Curio<g ref="char:EOLhyphen"/>ſity,</hi> but then 'tis as eaſie to mark it for a common Error, and avoid it: and to look upon all looſe and Academical Doubtings in Religion, as the Leproſie and Plague of Converſation, which will eat deeper than moſt are aware of, even into the ve<g ref="char:EOLhyphen"/>ry Principles of all Reaſon and Piety.</p>
+            <p>'Tis not to be endur'd, that thoſe who profeſs themſelves Men, and Chriſtians, and <hi>Reformed Chriſtians,</hi> ſhould favour any Objections againſt the Exiſtence of a God, the Immortality of the Soul, a Judgment to come, and the Truth and Excellency of the Holy Scriptures: we are to bleſs God
+<pb n="12" facs="tcp:96148:10"/> that theſe things are made as it were, the very inſtincts of our Nature, or the pious prepoſſeſſions of our youth; that ſome of them are the inward Senſation of our Con<g ref="char:EOLhyphen"/>ſciences, and unite with the firſt reflexion of our Thoughts, and that all of them are the early infuſion which we have received from our Parents and Maſters, and the groundwork upon which we are after<g ref="char:EOLhyphen"/>wards built into all Truth, and Wiſdom, and Holineſs.</p>
+            <p n="2">2. Whatſoever things are <hi>Juſt</hi> ought to be promoted in our ordinary Converſa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The Antient Common-wealth of <hi>Rome</hi> has been deſervedly admir'd through all Chriſtian Ages for its Civil Wiſdom, its Juſtice, and its Equity; and yet the great <note n="(a)" place="bottom">
+                  <hi>Nos veri Juris, Germanaeque Juſtitiae ſolidam &amp; ex<g ref="char:EOLhyphen"/>preſſam effigiem nullam tenemus: <g ref="char:V">Ʋ</g>mbrâ &amp; Imaginibus <g ref="char:V">Ʋ</g>timur.</hi> Cic. de Off. l. 3.</note> Orator, and Civilian, and Flatterer of that State and People has confeſſed, that
+<pb n="13" facs="tcp:96148:10"/> they had not any expreſs <hi>Image</hi> of the true Law, and ſincere Juſtice amongſt them, but onely ſome faint reſemblance of it; and that the Original was to be expected only from <hi>Truth</hi> and <hi>Nature:</hi> and behold we have received it from the God of Truth and Nature, who came to make us more like Doves than Serpents, more Juſt than Cun<g ref="char:EOLhyphen"/>ning; more upright and ſincere Deſpiſers of the World, not more ſhrewd deceitful Adorers of it, than Jews and Pagans: Who came to root all Covetouſneſs out of mens Minds, wherein the ſtrength of Inju<g ref="char:EOLhyphen"/>ſtice lies; to leſſen their eſteem of Tem<g ref="char:EOLhyphen"/>poral Advantages, to acquaint them with the Riches of his Mercy, to tell them of Treaſures worth all their Induſtry and Care, to inſpire them with the moſt generous Principles of doing all the good that lies within their reach, and of copying after his Example, who went about doing good, and in whoſe mouth there was found no Guile. Wherefore all Cheating, Lying, Diſſimulation, and over-reaching one ano<g ref="char:EOLhyphen"/>ther in Bargains and Contracts, is directly contrary to the Righteouſneſs of the Go<g ref="char:EOLhyphen"/>ſpel,
+<pb n="14" facs="tcp:96148:11"/> which has not onely confirm'd the Laws of <hi>Natural Right,</hi> the Rules of <hi>Civil Juſtice,</hi> and the more excellent precepts of <hi>Morality;</hi> but has added ſtricter Meaſures of its own, and bound them on the Conſcience with more Authority and ſeverer Sancti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>For the Goſpel has heighten'd all the <hi>Re<g ref="char:EOLhyphen"/>lative</hi> Duties between man and man, into parts and Acts of <hi>Religion:</hi> All Natural, Political, and Domeſtick Obligations are bound upon us with the <hi>Fear of the Lord,</hi> and are to <hi>be directed to the Glory of God:</hi> And nothing ſeem'd a greater care with the Apoſtle St. <hi>Paul,</hi> than that men might adorn their Chriſtian Profeſſion, by ſhew<g ref="char:EOLhyphen"/>ing the admirable influence it had upon them in thoſe lawful States and Callings in which it found them engag'd.</p>
+            <p>The immediate Acts of Religion, are either ſo ſecret that others do not ſee them; or elſe ſo outward and ſolemn that <hi>Hypo<g ref="char:EOLhyphen"/>criſie</hi> can act them; but <hi>Buſineſs, Commerce,</hi> and <hi>Trade,</hi> give clear and obvious Teſti<g ref="char:EOLhyphen"/>monies
+<pb n="15" facs="tcp:96148:11"/> of mens Hearts and Natures, of the falſeneſs or ſincerity of their Intentions and Deſigns: and by theſe <hi>Works</hi> we may ſoon diſcern either their <hi>Faith,</hi> or their <hi>Infide<g ref="char:EOLhyphen"/>lity.</hi>
+            </p>
+            <p>If we ever expect to Convert the <hi>In<g ref="char:EOLhyphen"/>dians,</hi> the Juſtice and Integrity of our Mer<g ref="char:EOLhyphen"/>chants and Factors muſt prepare the way; for they will never think the Chriſtian Re<g ref="char:EOLhyphen"/>ligion better than their own, unleſs they are well aſſur'd by mens <hi>Practices,</hi> that it injoyns more <hi>Honeſty</hi> than theirs: They will no more believe the Goſpel, whoſe Profeſſors Cheat and Lye, than they will go to Heaven with a <hi>Spaniard.</hi>
+            </p>
+            <p>Wherefore all thoſe may be ſaid to offend highly againſt Chriſtian Converſation, who make it their buſineſs to endamage their Neighbours by crafty and ſpecious pretences; who think they may take the advantage of anothers weakneſe, and make their own profit the meaſure of other mens Rights: Whereas the <hi>Juſtice</hi> of a Chriſtian ought always to be accompanied with ſome de<g ref="char:EOLhyphen"/>grees
+<pb n="16" facs="tcp:96148:12"/> of the <hi>Charity</hi> of a Chriſtian; and we ſhould ever remember, that we are not onely of one ſtock by Nature, but of one Bloud by Redemption, that we are all Children of the ſame Father by Ado<g ref="char:EOLhyphen"/>ption, Heirs of the ſame hopes and promi<g ref="char:EOLhyphen"/>ſes; and that in theſe little <hi>Societies</hi> here on Earth it nearly concerns us, that we no ways unfit our ſelves for that <hi>Everlaſting Society</hi> which we expect in the higheſt Heavens.</p>
+            <p n="3">3. Whatſoever things are <hi>Honeſt,</hi> Ve<g ref="char:EOLhyphen"/>nerable, Grave, or Decent, ought to be promoted in our common Converſation.</p>
+            <p>It is a good Rule that is laid down by ſome Moraliſts, that in our moſt <hi>familiar Converſe,</hi> we ſhould often reflect on the <hi>Dignitie</hi> and <hi>Prerogative</hi> of Man, that our Thoughts might be awaken'd to noble De<g ref="char:EOLhyphen"/>ſigns, and that we might <hi>do,</hi> or <hi>ſay,</hi> nothing that is below the Excellency of that Nature we carry, and always pay a proportionable reſpect to thoſe who bear the ſame Image with us: And this may be call'd the <hi>general
+<pb n="17" facs="tcp:96148:12"/> Decorum</hi> of Life, againſt which all <hi>Intempe<g ref="char:EOLhyphen"/>rances,</hi> and <hi>Senſuality,</hi> and baſe <hi>Complian<g ref="char:EOLhyphen"/>ces</hi> do immediately offend: But we that are Chriſtians, are able to raiſe this Rule higher, by carrying our thoughts beyond the preſent Dignity of our Nature, to the expectation of that <hi>Glory</hi> to which through <hi>Faith</hi> and Obedience it may be advanced: let us think what a gravity and ſeriouſneſs becomes thoſe who acknowledge themſelves to be always in the <hi>preſence</hi> of God, al<g ref="char:EOLhyphen"/>ways contending for a Crown, and to be endued with Souls capable of <hi>Thoughts</hi> and <hi>Affections</hi> that immediately relate to thoſe concerns that are <hi>Infinite</hi> and <hi>Eternal.</hi> And although we are not bound to keep up theſe reflections continually in their <hi>full Solemni<g ref="char:EOLhyphen"/>ty,</hi> but may ſometimes unbend to an inno<g ref="char:EOLhyphen"/>cent refreſhment, yet ought their <hi>Authori<g ref="char:EOLhyphen"/>ty</hi> and <hi>awe</hi> to be ſo <hi>Habitual</hi> to us, as to put a check to all extravagancies and ex<g ref="char:EOLhyphen"/>ceſſes, to all fooliſh Talking and Jeſting, which are not convenient: for Man was not made <hi>Levity,</hi> but for grave and weighty Affairs; and only ſo much Recreation is allowed him, as may fit him for more im<g ref="char:EOLhyphen"/>portant Duties.</p>
+            <pb n="18" facs="tcp:96148:13"/>
+            <p>There are <hi>two Extremes</hi> relating to this Rule, which require ſome reflection.</p>
+            <p>The firſt is concerning thoſe who will hardly allow of any other Diſcourſe in company, but what is <hi>purely Religious:</hi> the <hi>other</hi> concerns <hi>thoſe,</hi> who make it their <hi>whole buſineſs</hi> to be <hi>vain</hi> and <hi>trivial,</hi> and count nothing ſo uncourtly as a ſolid and a ſerious Temper.</p>
+            <p>As for the firſt opinion, though it may ſometimes proceed from Zeal, and an ho<g ref="char:EOLhyphen"/>neſt meaning, as it does oftentimes from <hi>meer Hypocriſie;</hi> yet I cannot foreſee what advantage it could bring to Chriſtianity, unleſs the generality of Men were better <hi>diſ<g ref="char:EOLhyphen"/>poſed,</hi> than I am ſure they are in this preſent Age. It is true, there is nothing more de<g ref="char:EOLhyphen"/>lightful than Heavenly Diſcourſes to thoſe perſons, whoſe hearts are inflamed with the love of God: nothing is ſo joyful as to communicate their thoughts of Religion, of the ſtate of their Souls, and of the ſu<g ref="char:EOLhyphen"/>reſt way of being happy; nothing ſo plea<g ref="char:EOLhyphen"/>ſing
+<pb n="19" facs="tcp:96148:13"/> as to unboſome their Experiences, their Spiritual Sorrows, and their comforts; they could be willing never to admit of any ſe<g ref="char:EOLhyphen"/>cular talk, but to ſeek their whole diverſi<g ref="char:EOLhyphen"/>on in the variety of Divine Arguments: but alas! this is the hidden Manna of ſome few ſelected Souls, who are able to make up a little circle of <hi>Love</hi> and <hi>Adoration</hi> in this lower world; and not fit to be propo<g ref="char:EOLhyphen"/>ſed for the <hi>common Theme</hi> of promiſcuous converſation, leſt it occaſion more Blaſ<g ref="char:EOLhyphen"/>phemy and Prophaneneſs.</p>
+            <p>It is well, if we can prevail with Men to be <hi>Rational</hi> and <hi>Moral</hi> in their familiar Communications, and to reſerve an appro<g ref="char:EOLhyphen"/>priated reverence for Diviner Duties. When it ſhall pleaſe God by great judg<g ref="char:EOLhyphen"/>ments and Calamities to take off the <hi>egre<g ref="char:EOLhyphen"/>gious vanity</hi> from mens Minds, to conſume their Ambition, Luxury, and Lewdneſs, by the fury of his indignation powred out up<g ref="char:EOLhyphen"/>on them, then the advice may become more ſeaſonable, and may attain its proper effect: then may <hi>Repentance</hi> become the Cry of the ſtreets, every man asking his Neigh<g ref="char:EOLhyphen"/>bour
+<pb n="20" facs="tcp:96148:14"/> what he ſhall do to be ſaved, and <hi>Religion</hi> be made the hinge on which all our thoughts and words ſhall move.</p>
+            <p>But however, let the world be never ſo bad, evil Cuſtoms never ſo prevailing, we are to ſet our ſelves againſt the <hi>ſecond</hi> Ex<g ref="char:EOLhyphen"/>treme, and to declare the intolerable inſo<g ref="char:EOLhyphen"/>lency and vileneſs of thoſe, who make it their whole buſineſs to be vain and tryvial, and turn the moſt <hi>venerable</hi> matters, into the ſubjects of their Jeſts and wilder mirth.</p>
+            <p>This is that Lunacy, which ſome call <hi>Wit,</hi> the Delirium of a Frantick Brain, and an overheated imagination; whereby ſome men commit ſuch <hi>horrid indignities</hi> with much <hi>facetiouſneſs</hi> and <hi>laughter,</hi> which others tremble to hear related: 'tis a fami<g ref="char:EOLhyphen"/>liar venom of the Tongue, which ſpares neither God nor Man, not their beſt Friends, or their own Souls. Whereas all that are judicious muſt allow, that there are certain things which ought to be more eſpecially priviledged from all <hi>Satyrical</hi> and <hi>Scoffing Wit,</hi> ſuch as <note n="(b)" place="margin">Ba<g ref="char:EOLhyphen"/>cons Eſ<g ref="char:EOLhyphen"/>ſays.</note> Religion,
+<pb n="21" facs="tcp:96148:14"/> Matters of State, Great perſons and Magi<g ref="char:EOLhyphen"/>ſtrates, any mans preſent buſineſs of im<g ref="char:EOLhyphen"/>portance, his Reputation and Credit, and any caſe that deſerveth our pitty.</p>
+            <p>There are indeed ſome Mens <hi>Vices</hi> which are above the <hi>Authority,</hi> and ſome Mens <hi>Humours</hi> which are below the <hi>notice</hi> of <hi>Laws;</hi> and theſe ſeem to have given the firſt riſe to ſharp and Comical Reflections: but ſeeing all things whereby <hi>Ill Nature</hi> is in the leaſt indulged, are very lyable to ex<g ref="char:EOLhyphen"/>ceſs; it would be the wiſeſt way to avoid all ſuch manner of Jeſting, which even <note n="(c)" place="margin">Rhet. <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Ariſtotle</hi> has defined to be but <hi>Witty Contumely:</hi> There are requir'd many Limi<g ref="char:EOLhyphen"/>tations, many Reſtrictions, and many Cau<g ref="char:EOLhyphen"/>tions to make it innocent; only a little modeſty and reſervedneſs to let it quite a<g ref="char:EOLhyphen"/>lone: for though the thing may poſſibly be ſo <hi>ſtated</hi> as to contain no real Turpitude in it, but to be indifferent in its own Na<g ref="char:EOLhyphen"/>ture; yet when through the corruption of the Age it is faln into a general abuſe, I am ſure the <hi>Pulpit</hi> ought generally to forbid it.</p>
+            <pb n="22" facs="tcp:96148:15"/>
+            <p>This is ſpoken chiefly of that ſort of <hi>Wit,</hi> which is Satyrical and Scoffing; whereas True Wit is ſuch as is founded on ſtrict <hi>Virtue</hi> and <hi>Morality;</hi> 'tis a cheerful vivaci<g ref="char:EOLhyphen"/>ty of good thoughts and Expreſſions, which offends no one, and which every one favours: 'tis a Rational gayety, or the good humour of the Mind, the health and joy of the Underſtanding; 'tis always joyned with <hi>Simplicity, Candor,</hi> and <hi>ſweetneſs of be<g ref="char:EOLhyphen"/>haviour:</hi> 'tis then alone that <hi>Wit</hi> becomes a pernicious Inſtrument, when either <hi>ill Nature,</hi> or <hi>Pride,</hi> or a <hi>Laſcivious</hi> mind has the management of it. Which brings me to my fourth Rule. That whatſoever things are <hi>Pure</hi> and Chaſt, ought to be pro<g ref="char:EOLhyphen"/>moted in our common Converſation.</p>
+            <p>We can hardly inſtance in any one ſin that is ſo directly contrary to the Chriſtian Religion, as is <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs:</hi> When St. <hi>Paul</hi> gives us at any time a <hi>long Catalogue</hi> of ſins, almoſt <hi>half</hi> of them ſpring from <hi>this Head:</hi> It was ſo prevailing in the Heathen world, about our Saviours time, that it had
+<pb n="23" facs="tcp:96148:15"/> not only corrupted their <hi>Manners,</hi> but their <hi>Laws</hi> too, and had crept into the moſt <hi>ſo<g ref="char:EOLhyphen"/>lemn Ceremonies</hi> of their <hi>Religion;</hi> and an <hi>unclean ſpirit</hi> was then an Emphatical Title for the <hi>Devil,</hi> who was worſhipped by his Votaries with all the deteſtable filthineſs of Body and Mind, as the antient <hi>Apologiſts</hi> have declared, perhaps in a way ſomewhat too <hi>plain</hi> and <hi>Cynical.</hi>
+            </p>
+            <p>'Twas this ſin that call'd down the moſt miraculous Judgments that we read of in the Old Teſtament: and I believe there are few Hiſtories, but will acquaint us of a moſt <hi>notorious Lewdneſs</hi> in all ſorts of Men and Women, which was as a fore<g ref="char:EOLhyphen"/>runner to every <hi>Horrible Calamity</hi> that befel a <hi>whole Nation.</hi> Even its <hi>immediate puniſh<g ref="char:EOLhyphen"/>ment</hi> in this life, as it many times happens to ſingle perſons and Families, ſeems to be more than <hi>Natural,</hi> and to be inflicted by a <hi>Divine Vengeance:</hi> for it often brings a preſent Diſeaſe, and conveys a Contagion to Poſterity; that whilſt the Parents Rot, the Children Languiſh.</p>
+            <pb n="24" facs="tcp:96148:16"/>
+            <p>Yet notwithſtanding the wonderful ſe<g ref="char:EOLhyphen"/>verity of Gods Judgments againſt this ſin, and the peculiar Holineſs and purity of the Goſpel; how is <hi>Laſciviouſneſs</hi> become the very <hi>Character</hi> of the Age? the practice or the pretence, the real or the vain-glorious ſin of the higheſt and the loweſt amongſt us! 'tis the peſt that has in a manner cor<g ref="char:EOLhyphen"/>rupted all Converſation, the nauſeous re<g ref="char:EOLhyphen"/>petition of almoſt every great Table, and every private Club; 'tis the Song and Poe<g ref="char:EOLhyphen"/>try of the <hi>Young,</hi> and the filthy Jeſt of the <hi>Aged.</hi>
+            </p>
+            <p>But if we would behave ourſelves as Chriſtians, we muſt maintain a moſt ſtrict <hi>Chaſtity</hi> in all our Thoughts, Fancies, and Deſires; in our Looks, Geſtures, and Ap<g ref="char:EOLhyphen"/>parel; we muſt not countenance the leaſt <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs</hi> by an ambiguous Word, by a complyant Smile, by a wanton Metaphor: but when others talk <hi>Lewdly,</hi> let us pray <hi>in<g ref="char:EOLhyphen"/>wardly;</hi> what they call <hi>Comedy,</hi> let us repre<g ref="char:EOLhyphen"/>ſent to our ſelves as the <hi>deepeſt Tragedy;</hi> and let <hi>Impure Flames</hi> put us in mind of the Fire
+<pb n="25" facs="tcp:96148:16"/> and brimſtone, that fell on <hi>Sodom</hi> and <hi>Go<g ref="char:EOLhyphen"/>morrah.</hi>
+            </p>
+            <p n="5">5. Whatſoever things are <hi>Lovely,</hi> Cur<g ref="char:EOLhyphen"/>teous, and Obliging, ought to be promo<g ref="char:EOLhyphen"/>ted in our common Converſation.</p>
+            <p>This Rule takes in all the Lower Arts of <hi>Civility,</hi> whereby a man is render'd moſt acceptable to Company, and by which he does not onely avoid thoſe greater <hi>Scan<g ref="char:EOLhyphen"/>dals</hi> which may <hi>provoke,</hi> but thoſe leſſer <hi>Indecencies</hi> that may <hi>offend.</hi> 'Tis a pru<g ref="char:EOLhyphen"/>dent obſervation of thoſe <hi>Ceremonious Ad<g ref="char:EOLhyphen"/>dreſſes,</hi> that Place, and Time, and Cuſtom, and the Quality of Perſons do require, a readineſs to give every one their <hi>due Re<g ref="char:EOLhyphen"/>ſpects,</hi> and rather more than leſs. 'Tis ſuch a guard upon all our Behaviour and Diſ<g ref="char:EOLhyphen"/>courſes, as ſuffers no Contempt of others, no Inſolency, no Anger, or Affectation to appear. But on this ſubject, I muſt be ſparing, becauſe I may be better taught it by many of my preſent <hi>Auditors.</hi>
+            </p>
+            <pb n="26" facs="tcp:96148:17"/>
+            <p>Yet I humbly beg leave to obſerve a lit<g ref="char:EOLhyphen"/>tle further, That Converſation, when it is truly Genteel and Complaiſant, is onely an obliging Scene of Kindneſs and Mode<g ref="char:EOLhyphen"/>ſty, a peculiar ſhine of virtuous Inclinati<g ref="char:EOLhyphen"/>ons, or a making <hi>Good Nature</hi> moſt viſible, grateful, and <hi>lovely.</hi> And although this cannot be ſo takingly effected without ſome <hi>faſhionable Ceremonies;</hi> yet when all is done, <hi>ſolid Virtue</hi> is the moſt laſting Ornament of Converſation, and an <hi>hearty plainneſs</hi> has many <hi>Priviledges</hi> allowed it in Company, which without it are denied to the moſt Honourable in Station or Deſcent. Where there is <hi>ſubſtantial Honeſty,</hi> all things are in a manner <hi>Becoming,</hi> and where that is wan<g ref="char:EOLhyphen"/>ting, the fineſt Language of Affection is but emptineſs and diſſimulation; and the moſt exquiſite Addreſs, only the hiding of a real Defect.</p>
+            <p>Laſtly, Whatſoever things are of <hi>good Report,</hi> or deſerve the Approbation of the <hi>Prudent</hi> and the <hi>Virtuous,</hi> ought to be pro<g ref="char:EOLhyphen"/>moted in our common Converſation.</p>
+            <pb n="27" facs="tcp:96148:17"/>
+            <p>And I know nothing that has a better claim to this Character, than <hi>your preſent Deſign</hi> of laying a foundation for <hi>perpetual Charity,</hi> by beſtowing a Chriſtian Educati<g ref="char:EOLhyphen"/>on, and a thriving maintenance on thoſe, who ſhall owe all their future proſperity to your preſent Bounty, and tranſmit the ſame Example, with an additional Grati<g ref="char:EOLhyphen"/>tude and Zeal to late poſterity. Theſe are actions and deſigns in which the brave and generous love to move as in their pro<g ref="char:EOLhyphen"/>per Element; they carry ſuch a light and ſuch an influence with them, as will make the moſt covetous Heart unfold it ſelf, to receive the <hi>reflected</hi> warmth and glory of a <hi>well-plac'd</hi> Alms.</p>
+            <p>'Tis by your Emulation in ſuch <hi>diſcreet</hi> Acts of Charity as theſe, that you bring <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> to your <hi>Religion,</hi> to your <hi>Nation,</hi> to your <hi>City,</hi> to your <hi>County,</hi> to your <hi>Perſons</hi> and <hi>Families.</hi>
+            </p>
+            <p>This is the <hi>True Engliſh Reformed Cha<g ref="char:EOLhyphen"/>rity,</hi> which is not upheld by Artifice, Su<g ref="char:EOLhyphen"/>perſtition,
+<pb n="28" facs="tcp:96148:18"/> or Preſumption, but is a ſolid and entire Building of it ſelf, wholly ſe<g ref="char:EOLhyphen"/>parated from the rubbiſh of Monaſtick Cheats and Forgeries, and not blaſted with the Pride of Merit: it is openly perſwa<g ref="char:EOLhyphen"/>ded, voluntarily undertaken, deſervedly praiſed. It is founded upon the true Baſis of Chriſtianity, it is encourag'd by a juſt ſenſe of Duty, and it may be <hi>quicken'd</hi> by a moderate regard to Reputation and <hi>Praiſe,</hi> for 'tis the Apoſtles <hi>Motive</hi> in the Text. If there be any ſuch thing as <hi>Vir<g ref="char:EOLhyphen"/>tue</hi> allow'd of in the World let <hi>Charity</hi> be eſteemed ſuch: If there be any <hi>Praiſe,</hi> any Generoſity, or Greatneſs of Soul, any Joy or Satisfaction in the voices of deſer<g ref="char:EOLhyphen"/>ved Honour, let them prompt you for<g ref="char:EOLhyphen"/>ward to the moſt <hi>Commendable</hi> Acts of <hi>Cha<g ref="char:EOLhyphen"/>rity.</hi>
+            </p>
+            <p>Though <hi>Honour</hi> ought never to be the <hi>principal</hi> motive to any <hi>Chriſtian</hi> Duty, yet nothing more juſtly challenges the <hi>ſe<g ref="char:EOLhyphen"/>cond place,</hi> or more <hi>illuſtriouſly</hi> fills it: for a <hi>Man of Honour</hi> is the next to a <hi>Man of Conſcience;</hi> nay, <hi>Honour</hi> it ſelf, is a kind of <hi>Civil Conſcience.</hi>
+            </p>
+            <pb n="29" facs="tcp:96148:18"/>
+            <p>To conclude, <hi>Knowledge, Learning, Com<g ref="char:EOLhyphen"/>merce, Civility,</hi> &amp;c. perhaps were never higher in this Kingdom, and <hi>Converſation</hi> never lower; for we are to account all things <hi>low</hi> and <hi>mean,</hi> that are contrary to Godlineſs, Righteouſneſs, and Sobriety: and if ever we expect a Reformation by ordinary means in this particular branch of Chriſtia<g ref="char:EOLhyphen"/>nity, it muſt begin from Men of <hi>parts</hi> and <hi>faſhion,</hi> from <hi>ſuch as You.</hi>
+            </p>
+            <p>Let us not imitate the <hi>Vices</hi> of the Hea<g ref="char:EOLhyphen"/>then, their <hi>Virtues</hi> we may; I am ſure, we may in <hi>Civil Duties,</hi> and the lower inſtan<g ref="char:EOLhyphen"/>ces of Manners: for whatever was good, commendable, and praiſe-worthy in any of their <hi>Religions, Laws,</hi> and <hi>Philoſophies;</hi> whatever was true, was juſt, decent, <hi>pure,</hi> whatever was lovely and of good report in any of theſe, all that is contain'd in our Chriſtianity; all that, and more. What<g ref="char:EOLhyphen"/>ever our particular Profeſſions, Imploy<g ref="char:EOLhyphen"/>ments, and Callings are, let us ſtill remem<g ref="char:EOLhyphen"/>ber that our <hi>General</hi> one, is that of Chriſti<g ref="char:EOLhyphen"/>anity; and before every undertaking, let
+<pb n="30" facs="tcp:96148:19"/> us examine whether the action be becom<g ref="char:EOLhyphen"/>ing one who profeſſes the Goſpel of Chriſt, the higheſt Rule of <hi>perfection</hi> that was ever given to Humane Nature.</p>
+            <p>Let us be careful in the government of our Mirth, never to betray any vice or de<g ref="char:EOLhyphen"/>fect in our Manners: and let us never be ſo complaiſant as to go hand in hand to ſin and deſtruction.</p>
+            <p>In this Age of <hi>Good Nature,</hi> a little <hi>go<g ref="char:EOLhyphen"/>vernable reſervedneſs</hi> may be no mean ſecu<g ref="char:EOLhyphen"/>rity to our Virtue and our Innocence; for where one does really offend by being too ſullen and auſtere, thouſands miſcarry by a too eaſie compliance.</p>
+            <p>Let nothing falſe, nothing unjuſt, no<g ref="char:EOLhyphen"/>thing prophane, ſcurrilous, or obſcene pro<g ref="char:EOLhyphen"/>ceed out of your mouths; but let Truth, Righteouſneſs, and Decence; let modeſty, friendſhip and reverence of all things <hi>Sacred;</hi> let <hi>Charity, Loyalty,</hi> and whatever things are of good report, be the continual ornament of your Chriſtian Converſation. Let no<g ref="char:EOLhyphen"/>thing
+<pb n="31" facs="tcp:96148:19"/> be the diverſion of your leſs care<g ref="char:EOLhyphen"/>ful hours, that may any ways unfit you for greater Duties: and let not the Free<g ref="char:EOLhyphen"/>dom of this preſent <hi>Feſtival</hi> heap up new matter for to-morrows <hi>Humiliation,</hi> and the following <hi>Seaſon</hi> of <hi>Sorrow</hi> and <hi>Repen<g ref="char:EOLhyphen"/>tance.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
